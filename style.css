@@ -3,3 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+:root {
+  font-family: 'Source Code Pro', monospace;
+}
+
+button {
+  font-family: 'Source Serif 4', sans-serif;
+}
